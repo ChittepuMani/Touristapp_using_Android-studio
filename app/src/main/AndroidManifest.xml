@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.tourist">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".battery"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".ViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".golconda"
+            android:exported="false" />
+        <activity
+            android:name=".buddha"
+            android:exported="false" />
+        <activity
+            android:name=".medak"
+            android:exported="false" />
+        <activity
+            android:name=".marina"
+            android:exported="false" />
+        <activity
+            android:name=".rockbeach"
+            android:exported="false" />
+        <activity
+            android:name=".paradise"
+            android:exported="false" />
+        <activity
+            android:name=".eden"
+            android:exported="false" />
+        <activity
+            android:name=".ramoji"
+            android:exported="false" />
+        <activity
+            android:name=".charminar"
+            android:exported="false" />
+        <activity
+            android:name=".vinayagarTemple"
+            android:exported="false" />
+        <activity
+            android:name=".tirumala"
+            android:exported="false" />
+        <activity
+            android:name=".meenakshi"
+            android:exported="false" />
+        <activity
+            android:name=".shore"
+            android:exported="false" />
+        <activity
+            android:name=".kalahastri"
+            android:exported="false" />
+        <activity
+            android:name=".bhadrachalam"
+            android:exported="false" />
+        <activity
+            android:name=".matrimandir"
+            android:exported="false" />
+        <activity
+            android:name=".ooty"
+            android:exported="false" />
+        <activity
+            android:name=".chikmanglur"
+            android:exported="false" />
+        <activity
+            android:name=".arakuvalley"
+            android:exported="false" />
+        <activity
+            android:name=".kodaikanal"
+            android:exported="false" />
+        <activity
+            android:name=".coorg"
+            android:exported="false" />
+        <activity
+            android:name=".nagarholepark"
+            android:exported="false" />
+        <activity
+            android:name=".darga"
+            android:exported="false" />
+        <activity
+            android:name=".wonderla"
+            android:exported="false" />
+        <activity
+            android:name=".palace"
+            android:exported="false" />
+        <activity
+            android:name=".Gmaps"
+            android:label="maps" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true"
+            tools:ignore="DuplicateActivity" />
+
+        <service
+            android:name=".MyService2"
+            android:enabled="true"
+            android:exported="true" />
+        <service
+            android:name=".MyService"
+            android:enabled="true"
+            android:exported="true" />
+        <activity
+            android:name=".Splash"
+
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

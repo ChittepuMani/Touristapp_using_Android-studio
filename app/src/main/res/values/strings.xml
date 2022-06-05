@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Tourist</string>
+    <array name="name">
+        <item>Araku valley</item>
+        <item>Tirumala</item>
+        <item>Barah Shaheed Darga</item>
+        <item>Sri Kalahasti Temple</item>
+        <item>Dhyana Buddha Statue</item>
+        <item>Charminar</item>
+        <item>Ramoji Film City</item>
+        <item>Bhadrachalam Temple</item>
+        <item>Golconda Fort</item>
+        <item>Medak Fort</item>
+        <item>Ooty</item>
+        <item>Kodaikanal</item>
+        <item>Marina Beach</item>
+        <item>Meenakshi Amman Temple</item>
+        <item>Shore Temple</item>
+        <item>Coorg</item>
+        <item>Wonderla Amusement Park</item>
+        <item>Chikmagalur</item>
+        <item>Nagarhole National Park</item>
+        <item>Bangalore Palace</item>
+        <item>Matrimandir</item>
+        <item>Paradise Beach</item>
+        <item>Rock Beach</item>
+        <item>Eden Beach</item>
+        <item>Arulmigu Manakula Vinayagar Temple</item>
+
+    </array>
+    <array name="desption">
+        <item>Araku valley is located in Visakapatanam district in the state of Andhra pradesh
+        </item>
+        <item>Tirumala is located in Chitoor district in the state of Andhra pradesh</item>
+        <item>Barah Shaheed Darga is located in Nellore district in the state of Andhra pradesh
+        </item>
+        <item>Sri Kalahasti Temple is located in town of Kalahastri in state of Andhra pradesh
+        </item>
+        <item>Dhyana Buddha Statue is located in Guntur district in the state of Andhra pradesh
+        </item>
+        <item>Charminar is located in the city of Hyderabad in the state of Andhra pradesh</item>
+        <item>Ramoji Film City is located in the city of Hyderabad in state of Telangana</item>
+        <item>Bhadrachalam Temple is located in bhadrachalam in state of Telangana</item>
+        <item>Golconda Fort is located in Hyderabad in the state of Telangana</item>
+        <item>Medak Fort is located in Bhadrachalam district in the state of Telangana</item>
+        <item>Ooty is located in Nigiris district in the state of Tamilnadu</item>
+        <item>Kodaikanal is located in Dindigul district in state of Tamilnadu</item>
+        <item>Marina Beach is located in Chennai city in the state of Tamilnadu</item>
+        <item>Meenakshi Amman Temple is located in Madurai city in the state of Tamilnadu</item>
+        <item>Shore Temple is located in Mahibalipuarm in the state of Tamilnadu</item>
+        <item>Coorg is a rural district and it is located in state of Karnataka</item>
+        <item>Wonderla Amusement Park is has a lot of exciting things to visit,it is located in
+            Karnataka
+        </item>
+        <item>Chikmagalur is a hill station ,it is located in Karnataka</item>
+        <item>Nagarhole National Park is a park for famous for tigers ,it is located in Karnataka
+        </item>
+        <item>Bangalore Palace is a royal palace in Bangalore city in state of Karanataka</item>
+        <item>Matrimandir is located in Aurovile in city of Pondicherry</item>
+        <item>Paradise Beach is famous for its views ,it is located in the city of pondicherry
+        </item>
+        <item>Rock Beach is very clean and neat beach to visit in city of Pondicherry</item>
+        <item>Eden Beach is located in besides of paradise beach located in Pondicherry</item>
+        <item>Arulmigu Manakula Vinayagar Temple is ganesha temple which is located in Pondicheey
+        </item>
+
+    </array>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

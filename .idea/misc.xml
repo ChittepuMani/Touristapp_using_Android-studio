@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/drawable/roundedcorner.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/activity_battery.xml" value="0.25" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/activity_battery2.xml" value="0.1" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/activity_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/activity_service.xml" value="0.176" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/activity_view.xml" value="0.264" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/activity_view2.xml" value="0.1" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/araku.xml" value="0.264" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/bangalore.xml" value="0.264" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/bhadrachalam.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/buddha.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/charminar.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/chikmanglur.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/coorg.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/darga.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/eden.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/fragment_.xml" value="0.136" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/fragment_fragmenttwo.xml" value="0.25" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/fragment_location.xml" value="0.25" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/fragment_maps.xml" value="0.25" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/fragment_maps2.xml" value="0.264" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/fragments.xml" value="0.1" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/fragmrnt_locations.xml" value="0.25" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/gmaps.xml" value="0.176" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/golconda.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/handr.xml" value="0.25" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/kalahastri.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/kodaikanal.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/marina.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/matrimandir.xml" value="0.264" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/medak.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/meenakshi.xml" value="0.536" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/nagarhole.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/ooty.xml" value="0.4" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/paradise.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/ramojji.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/rock.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/service.xml" value="0.1" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/servicess.xml" value="0.1" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/shore.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/single_view_item.xml" value="0.2" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/splash.xml" value="0.25" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/tirumala.xml" value="0.176" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/vinayakar.xml" value="0.2" />
+        <entry key="..\:/Users/Chitt/AndroidStudioProjects/Tourist2/app/src/main/res/layout/wonderla.xml" value="0.3014705882352941" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".arakuvalley">
+
+    <Button
+        android:id="@+id/a5"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/roundedcorner"
+        android:backgroundTint="#3F51B5"
+        android:bottomLeftRadius="10dp"
+        android:bottomRightRadius="10dp"
+        android:text="THE PROMENADE"
+        android:topLeftRadius="10dp"
+        android:topRightRadius="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <Button
+        android:id="@+id/a6"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="22dp"
+        android:background="@drawable/roundedcorner"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#3F51B5"
+        android:bottomLeftRadius="10dp"
+        android:bottomRightRadius="10dp"
+        android:text="THE RETREAT"
+        android:topLeftRadius="10dp"
+        android:topRightRadius="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a5" />
+
+    <Button
+        android:id="@+id/a1"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:textColor="#FFFFFF"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="96dp"
+        android:background="@drawable/roundedcorner"
+        android:backgroundTint="#3F51B5"
+        android:text="ROCK BEACH"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/a7"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginBottom="36dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/roundedcorner"
+        android:backgroundTint="#3F51B5"
+        android:text="SEA SIDE GUEST HOUE"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a6"
+        app:layout_constraintVertical_bias="0.083" />
+
+    <Button
+        android:id="@+id/a2"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="23dp"
+        android:background="@drawable/roundedcorner"
+        android:backgroundTint="#3F51B5"
+        android:text="BAY OF BUDDHA "
+        android:textColor="#EFE8E8"
+        app:layout_constraintBottom_toTopOf="@+id/a3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+
+    <Button
+        android:id="@+id/a3"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="376dp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/roundedcorner"
+        android:backgroundTint="#3F51B5"
+        android:text="CHICK FILL"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a2" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="388dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:text="LOCATON TO ROCK BEACH"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/a4"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="4dp"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="22dp"
+        android:background="@drawable/roundedcorner"
+        android:backgroundTint="#3F51B5"
+        android:text="CHEEKY FRIED CHICKEN"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a3" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="388dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:text="NEAR BY RESTAURENTS"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a1" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="388dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:text="NEAR BY HOTELS"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/a4" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

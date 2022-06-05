@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+                 android:layout_width="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="253dp"
+            android:src="@drawable/loca" />
+
+        <Button
+
+            android:id="@+id/golconda"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#FF9800"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:text="G O L K O N D A    F O R T"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/statue"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#FF9800"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:paddingTop="5dp"
+            android:text="D H Y A N A   B U D D H A   S T A T U E"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/medak"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#FF9800"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="M E D A K   F O R T "
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/marina"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#FF9800"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="M A R I N A   B E A C H"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/rock"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:textStyle="bold"
+            android:backgroundTint="#FF9800"
+            android:gravity="center"
+            android:text=" R O C K   B E A C H "
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/paradise"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#FF9800"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="P A R A D I S E    B E A C H"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/eden"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#FF9800"
+            android:gravity="center"
+            android:text="E D E N   B E A C H"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/ramoji"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#FF9800"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="R A M O J I  F I L M  C I T Y "
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/charminar"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#FF9800"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="C H A R M I N A R "
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/vinayagar"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#ffffff"
+            android:gravity="center"
+            android:text="A R U L M I G U  M A N A K U L A  V I N A Y A G A R   T E M P L E"
+            android:textColor="#1738EF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+
+            android:id="@+id/tirumala"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#ffffff"
+            android:gravity="center"
+
+            android:text="T I R U M A L A"
+            android:textColor="#1738EF"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/mtemple"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#ffffff"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="M E E N A K S H I  A M M A N   T E M P L E"
+            android:textColor="#1738EF"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/shore"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#ffffff"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="S H O R E   T E M P L E"
+            android:textColor="#1738EF"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/ktemple"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#ffffff"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="S R I   K A L A H A S T R I  T E M P L E "
+            android:textColor="#1738EF"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/btemple"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:textStyle="bold"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#ffffff"
+            android:gravity="center"
+            android:text="B H A D R A C H A L A M  T E M P L E"
+            android:textColor="#1738EF"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/matrimandir"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:textStyle="bold"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#ffffff"
+            android:gravity="center"
+            android:text="M A T R I M A N D I R"
+            android:textColor="#1738EF"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/ooty"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#4CAF50"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="O O T Y"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/chikmangulur"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:textStyle="bold"
+            android:backgroundTint="#4CAF50"
+            android:gravity="center"
+            android:text="C H I K M A N G A L U R"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/arakku"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:textStyle="bold"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#4CAF50"
+            android:gravity="center"
+            android:text="A R A K U V A L L E Y"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/kodaikanal"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:textStyle="bold"
+            android:backgroundTint="#4CAF50"
+            android:gravity="center"
+            android:text="K O D A I K A N A L"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/coorg"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:textStyle="bold"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#4CAF50"
+            android:gravity="center"
+            android:text="C O O R G"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/npark"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#4CAF50"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="N A G A R H O L E   N A T I O N A L   P A R K"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/darga"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#4CAF50"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="B A R A H  S H A H E E D  D A R G A"
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/wonderla"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:backgroundTint="#4CAF50"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="W O N D E R L A  A M U S E M E N T  P A R K "
+            android:textSize="20sp" />
+
+        <Button
+
+            android:id="@+id/bpalace"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10.0dip"
+            android:textStyle="bold"
+            android:backgroundTint="#4CAF50"
+            android:gravity="center"
+            android:text="B A N G A L O R E  P A L A C E"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+</ScrollView>
